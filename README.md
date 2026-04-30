@@ -1,4 +1,4 @@
 # miPrimerRepo
 Primer repo en git
 
-primera contribucion local para github
+primera contribucion local para git hub
